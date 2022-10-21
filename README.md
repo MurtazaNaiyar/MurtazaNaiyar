@@ -8,7 +8,7 @@ I am a Data Science Professional with over 6.5 Years of Experience in Big Data/M
 
 - any collobration work,
 - Data Engineering projects
-- machine learning projects(development or research),
+- machine learning projects(development or research)
 
 **Recent Update**:
 
@@ -70,9 +70,9 @@ I am a Data Science Professional with over 6.5 Years of Experience in Big Data/M
 <!-- 
 ----
 [<img src="https://github-profile-trophy.vercel.app/?username=murtazanaiyar&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=murtazanaiyar&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats.vercel.app/api?username=murtazanaiyar&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/murtazanaiyar/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=murtazanaiyar&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Murtaza's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Murtaza's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtazanaiyar&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/murtazanaiyar/github-readme-stats)
  -->
 
 <!--
