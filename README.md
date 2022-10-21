@@ -6,9 +6,9 @@ I am a Data Science Professional with over 6.5 Years of Experience in Big Data/M
 
  **I am open to**:
 
-- any collobration work,
-- Data Engineering projects
-- machine learning projects(development or research)
+- Any collobration work,
+- Data Engineering Projects,
+- Machine learning Projects(development or research)
 
 **Recent Update**:
 
