@@ -1,16 +1,16 @@
-### Hi there, I'm [Murtaza Naiyar](https://murtazanaiyar.github.io) 👋
+## Hi there, I'm [Murtaza Naiyar](https://murtazanaiyar.github.io) 👋🏼👨🏻‍💻
 
 
+<a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
 
 I am a Data Science Professional with over 6.5 Years of Experience in Big Data/ML Engineering and Data Science.
+I am passionate about Data Science 📊, Pythonic programming 🐍, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
  **I am open to**:
 
 - Any collobration work,
 - Data Engineering Projects,
 - Machine learning Projects(development or research)
-
-**Recent Update**:
 
 ## ⚡ Skills:
 
@@ -30,14 +30,14 @@ I am a Data Science Professional with over 6.5 Years of Experience in Big Data/M
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-#### 🚀💻 Database
+#### ⚙️💻 Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=Teradata&logoColor=white)&nbsp;
 ![Apache Hive](https://img.shields.io/badge/Apache-Hive-FDEE21?style=for-the-badge&logo=Apache-Hive&logoColor=white)
 
-#### 🚀💻 Tools and Technologies
+#### ⚙️💻 Tools and Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -78,13 +78,6 @@ I am a Data Science Professional with over 6.5 Years of Experience in Big Data/M
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=murtazanaiyar&show_icons=true&count_private=true&theme=gruvbox" alt="Murtaza's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtazanaiyar&layout=compact&count_private=true&theme=gruvbox" /></a> |
 | ------------- | ------------- |
 
-<!-- 
-----
-[<img src="https://github-profile-trophy.vercel.app/?username=murtazanaiyar&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=murtazanaiyar&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/murtazanaiyar/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=murtazanaiyar&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Murtaza's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtazanaiyar&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/murtazanaiyar/github-readme-stats)
- -->
 
 <!--
 **themlphdstudent/themlphdstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
