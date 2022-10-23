@@ -39,7 +39,7 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
 
 
 #### ⚙️💻 Tools and Technologies
-
+![Apache Hadoop](https://img.shields.io/badge/Apache-Hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)&nbsp;
