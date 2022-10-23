@@ -39,17 +39,21 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
 
 
 #### ⚙️💻 Tools and Technologies
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)&nbsp;
 ![Apache Hadoop](https://img.shields.io/badge/Apache-Hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=MLFlow&logoColor=white)&nbsp;
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=Amazon-AWS&logoColor=F90)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)&nbsp;
-![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=MLFlow&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white)&nbsp;
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+
+#### ⚙️💻 Version Control
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)&nbsp;
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)
 
 #### 🚀💻 IDEs
