@@ -10,7 +10,7 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
 
 - Any collobration work,
 - Data Engineering Projects,
-- Machine learning Projects(development or research)
+- Machine learning Projects(development or research).
 
 ## ⚡ Skills:
 
