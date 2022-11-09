@@ -39,10 +39,12 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=Teradata&logoColor=white)&nbsp;
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Apache Hive](https://img.shields.io/badge/Apache-Hive-FDEE21?style=for-the-badge&logo=Apache-Hive&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+![Apache Hive](https://img.shields.io/badge/Apache-Hive-FDEE21?style=for-the-badge&logo=Apache-Hive&logoColor=white)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+
+
 
 
 #### ⚙️💻 Tools and Technologies
