@@ -103,7 +103,7 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
 
 #### ⚡ GitHub Stats
 
-<a href="https://www.adamalston.com/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=MurtazaNaiyar&count_private=true&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="150px" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurtazaNaiyar&count_private=true&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://www.adamalston.com/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=MurtazaNaiyar&count_private=true&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="150px" width="700px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurtazaNaiyar&count_private=true&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 [![Murtaza's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MurtazaNaiyar&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
